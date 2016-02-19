@@ -1,3 +1,4 @@
+See https://docs.google.com/document/d/1KhKAX7RIXXf3kPmTshdAIOaPpeNS1Rj4RckAjkTTCEo/edit?usp=sharing 
 
 Bounding Volume Hierarchy (BVH):
 -------------------------------

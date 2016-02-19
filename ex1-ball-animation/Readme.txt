@@ -1,3 +1,5 @@
+See https://docs.google.com/document/d/1H5YXzEUnx5jBpO_9HVIaKL1Stx8n2I6FvbZUlxUJ2YA/edit?usp=sharing
+
 Description:
 -----------
 Create moving colorful balls which shrink whenever they collide with each other or the wall.
